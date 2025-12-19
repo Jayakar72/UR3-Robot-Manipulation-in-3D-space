@@ -1,6 +1,7 @@
 
 <div align="center">
 <h1>6 DOF UR3 robot Manipulation</h1>
+  <h2> A simple interactive 6 DOF UR3 
 <h4> <i> EECE 5250 Robot Mechanics and control, Northeastern University, Boston </i></h4>
 
 [[Report](https://drive.google.com/file/d/1VCmS2vxOOsYXLE1RkLgm6P8pIUAeT4Tb/preview)]
