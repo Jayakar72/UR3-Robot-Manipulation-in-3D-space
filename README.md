@@ -6,7 +6,7 @@
 [[Report](https://drive.google.com/file/d/1VCmS2vxOOsYXLE1RkLgm6P8pIUAeT4Tb/preview)]
 
 <p float="center">
-  <img src="Project 2/animation.gif" width="45%" />
+  <img src="Project 2/animation.gif" width="60%" />
 </p>
 </div>
 
