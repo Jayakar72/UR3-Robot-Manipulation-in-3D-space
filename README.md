@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1>6 DOF UR3 robot Manipulation</h1>
-A simple interactive UR3 robot arm simulation using matplotlib animation  
+A simple interactive UR3 robot arm simulation - This project is made to learn the basic integration of DH parameters, IK, and FK into a simple 3D model arm using just Python and matlplot animation function
 <h4> <i> EECE 5250 Robot Mechanics and control, Northeastern University, Boston </i></h4>
 
 [[Report](https://drive.google.com/file/d/1VCmS2vxOOsYXLE1RkLgm6P8pIUAeT4Tb/preview)]
