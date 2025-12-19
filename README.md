@@ -3,4 +3,8 @@
 
 [[Report](https://drive.google.com/file/d/1VCmS2vxOOsYXLE1RkLgm6P8pIUAeT4Tb/preview)]
 
+<p float="center">
+  <img src="project2/RobotAnimation.mp4" width="98%" />
+</p>
+
 # Abstract
