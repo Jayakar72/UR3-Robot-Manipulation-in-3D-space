@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 This simulation doesnt require heavy CPU / GPU its a simple python code to make a 3D arm simulation using the matplotlib animation function, make sure to check out this link to learn about the matplotlib animation function - [Matlplotlib Animation](https://matplotlib.org/stable/api/animation_api.html) & these are few opensource sample codes for working on your first matplotlib animation - [Sample codes](https://github.com/topics/matplotlib-animation).
 
-The robot link lengths are taken from the online Universal Robotics DH parameters for calculating the dynamics and kinmatics  - [here](https://www.universal-robots.com/articles/ur/application-installation/dh-parameters-for-calculations-of-kinematics-and-dynamics/)
+The robot link lengths are taken from the online Universal Robotics DH parameters for calculating the dynamics and kinmatics  - [here](https://www.universal-robots.com/articles/ur/application-installation/dh-parameters-for-calculations-of-kinematics-and-dynamics/), You can see the full calculation of the FK and IK in the paper attached above.
