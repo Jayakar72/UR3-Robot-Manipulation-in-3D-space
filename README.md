@@ -21,3 +21,5 @@ Install the requirements using `pip`. You might want to install these specific v
 ```
 pip install -r requirements.txt
 ```
+
+This simulation doesnt require heavy CPU / GPU its a simple python code to make a 3D arm simulation using the matplotlib animation function, make sure to check out this link to learn about the matplotlib animation function - 
