@@ -17,3 +17,7 @@ This project develops a complete kinematic modeling and task-space motion framew
 
 
 # Requirements
+Install the requirements using `pip`. You might want to install these specific versions; later versions of matplotlib might have trouble loading the 3D simulation:
+```
+pip install -r requirements.txt
+```
